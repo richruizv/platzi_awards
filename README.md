@@ -16,3 +16,16 @@ app for platzi awards made with Django
 
     [`pip install -r requirements.txt`](#code).
 
+5. Install the polls' models with
+    
+    [`py manage.py makemigrations polls`](#code).
+    [`py manage.py migrate`](#code).
+
+6. Run the application with
+
+    [`py manage.py runserver`](#code).
+    
+
+6.1 Run the console of the application with
+
+    [`py manage.py shell`](#code).
